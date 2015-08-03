@@ -58,7 +58,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.javavids.main.Main</mainClass>
+                                    <mainClass>com.endava.classMain</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
